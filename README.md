@@ -25,7 +25,7 @@ python smart_agriculture_helper.py
 
 ---
 
-✨ Features
+# Features
 
 User inputs soil moisture, temperature, and humidity
 
@@ -39,7 +39,7 @@ Ideal for beginners and academic submissions
 
 ---
 
-📂 File Information
+# File Information
 
 This repository contains the following files:
 
@@ -66,7 +66,7 @@ Project_Report.md – full academic project report
 
 ---
 
-🖥️ Requirements
+# Requirements
 
 Python 3.x
 
@@ -78,7 +78,7 @@ Command Line Interface (CLI)
 
 ---
 
-✅ Permission & Certification
+# Permission & Certification
 
 I hereby confirm that this work is my own, created by me for academic/project purposes.
 I certify that:
@@ -93,14 +93,14 @@ The project is submitted as per required guidelines
 
 ---
 
-📌 Status
+# Status
 
 The project is complete and functioning as expected.
 
 
 ---
 
-📎 Note
+# Note
 
 This repository is a student academic project meant to showcase basic decision-making logic for smart farming.
 You may modify or extend it for learning, research, or experimentation.
@@ -108,7 +108,7 @@ You may modify or extend it for learning, research, or experimentation.
 
 ---
 
-👨‍💻 Author
+# Author
 
 Your Name
 Your College / Roll Number
