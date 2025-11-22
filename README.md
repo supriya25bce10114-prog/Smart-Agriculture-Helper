@@ -10,7 +10,6 @@ This project is intended for educational use and demonstrates the basics of smar
 ## Installation
 Follow the steps below to run the project:
 
-### **1. Clone the repository**
 ```bash
 git clone https://github.com/your-username/Smart-Agriculture-Helper.git
 
