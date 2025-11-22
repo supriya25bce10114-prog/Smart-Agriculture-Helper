@@ -1,15 +1,16 @@
-# Smart Agriculture Helper
+# 🌱 Smart Agriculture Helper
 
-## Description
-Smart Agriculture Helper is a Python-based mini-project designed to assist in selecting suitable crops based on environmental conditions such as **soil moisture**, **temperature**, and **humidity**.  
+## 📝 Description
+Smart Agriculture Helper is a Python-based mini-project designed to assist in selecting suitable crops based on environmental conditions such as *soil moisture, **temperature, and **humidity*.  
 The system simulates sensor-based smart farming and uses simple decision-making logic to recommend appropriate crop types.  
 This project is intended for educational use and demonstrates the basics of smart agriculture and Python programming.
 
 ---
 
-## Installation
+## 🚀 Installation
 Follow the steps below to run the project:
 
+### *1. Clone the repository*
 ```bash
 git clone https://github.com/your-username/Smart-Agriculture-Helper.git
 
@@ -23,7 +24,8 @@ python smart_agriculture_helper.py
 
 
 ---
-Features
+
+✨ Features
 
 User inputs soil moisture, temperature, and humidity
 
@@ -37,7 +39,7 @@ Ideal for beginners and academic submissions
 
 ---
 
-File Information
+📂 File Information
 
 This repository contains the following files:
 
@@ -64,7 +66,7 @@ Project_Report.md – full academic project report
 
 ---
 
-Requirements
+🖥️ Requirements
 
 Python 3.x
 
@@ -76,7 +78,7 @@ Command Line Interface (CLI)
 
 ---
 
-Permission & Certification
+✅ Permission & Certification
 
 I hereby confirm that this work is my own, created by me for academic/project purposes.
 I certify that:
@@ -91,14 +93,14 @@ The project is submitted as per required guidelines
 
 ---
 
-Status
+📌 Status
 
 The project is complete and functioning as expected.
 
 
 ---
 
-Note
+📎 Note
 
 This repository is a student academic project meant to showcase basic decision-making logic for smart farming.
 You may modify or extend it for learning, research, or experimentation.
@@ -106,9 +108,9 @@ You may modify or extend it for learning, research, or experimentation.
 
 ---
 
-Author
+👨‍💻 Author
 
-Supriya
-Registration No.- 25BCE10114
+Your Name
+Your College / Roll Number
 
 ---
