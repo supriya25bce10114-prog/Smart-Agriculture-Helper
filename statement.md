@@ -1,4 +1,4 @@
-1. Problem Statement
+# 1. Problem Statement
 
 Modern agriculture faces several challenges, especially for small and medium-scale farmers who do not have access to continuous monitoring tools. Key environmental factors like soil moisture, temperature, and humidity greatly influence crop health and yield, yet these parameters are rarely tracked effectively.
 
@@ -16,7 +16,7 @@ This project aims to serve as a beginner-friendly digital tool to assist farmers
 
 ---
 
-2. Scope of the Project
+# 2. Scope of the Project
 
 This project provides a basic Python-based Smart Agriculture Helper system that performs the following:
 
@@ -43,7 +43,7 @@ Automated irrigation control hardware
 
 ---
 
-3. Target Users
+# 3. Target Users
 
 This project is designed for:
 
@@ -59,7 +59,7 @@ Researchers exploring rule-based agriculture systems
 
 ---
 
-4. High-Level Features
+# 4. High-Level Features
 
 Sensor Simulation:
 Generates realistic environmental readings through Python's random module.
