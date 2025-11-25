@@ -52,7 +52,7 @@ README.md – project explanation
 
 statement.md – project statement
 
-screenshots.py - outputs
+Results.py.docx - outputs
 
 
 
