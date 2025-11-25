@@ -2,7 +2,7 @@
 
 # Description
 
-Smart Agriculture Helper is a VITyarthi Project based on Python designed to assist in selecting suitable crops based on environmental conditions such as soil moisture, temperature, and humidity.
+Smart Agriculture Helper is a VITyarthi Project based on Python designed to assist farmers in selecting suitable crops based on environmental conditions such as soil moisture, temperature, and humidity.
 The system helps farmers in smart farming and uses simple decision-making logic to recommend appropriate crop types.
 This project is intended for educational use and demonstrates the basics of smart agriculture and Python programming.
 
@@ -46,11 +46,11 @@ Ideal for beginners and academic submissions
 
 This repository contains the following files:
 
-main.py – main Python script
+main.py - main Python script
 
-README.md – project explanation
+README.md - project explanation
 
-statement.md – project statement
+statement.md - project statement
 
 Results.py.docx - outputs
 
