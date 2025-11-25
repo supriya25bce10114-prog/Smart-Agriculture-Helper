@@ -2,8 +2,8 @@
 
 # Description
 
-Smart Agriculture Helper is a Python-based mini-project designed to assist in selecting suitable crops based on environmental conditions such as soil moisture, temperature, and humidity.
-The system simulates sensor-based smart farming and uses simple decision-making logic to recommend appropriate crop types.
+Smart Agriculture Helper is a VITyarthi Project based on Python designed to assist in selecting suitable crops based on environmental conditions such as soil moisture, temperature, and humidity.
+The system helps farmers in smart farming and uses simple decision-making logic to recommend appropriate crop types.
 This project is intended for educational use and demonstrates the basics of smart agriculture and Python programming.
 
 
@@ -23,7 +23,7 @@ cd Smart-Agriculture-Helper
 
 3. Run the program
 
-python smart_agriculture_helper.py
+python main.py
 
 
 ---
@@ -103,7 +103,9 @@ You may modify or extend it for learning, research, or experimentation.
 # Author
 
 Supriya
+
 Registration No.- 25BCE10114
+
 VIT Bhopal University
 
 ---
