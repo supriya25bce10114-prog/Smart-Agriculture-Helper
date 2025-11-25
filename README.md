@@ -46,24 +46,13 @@ Ideal for beginners and academic submissions
 
 This repository contains the following files:
 
-smart_agriculture_helper.py – main Python script
+main.py – main Python script
 
 README.md – project explanation
 
 statement.md – project statement
 
-
-UML Diagrams
-
-use_case.md
-
-workflow.md
-
-sequence.md
-
-class_diagram.md
-
-Project_Report.md – full academic project report
+screenshots.py - outputs
 
 
 
