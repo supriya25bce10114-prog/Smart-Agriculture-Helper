@@ -4,12 +4,9 @@ Modern agriculture faces several challenges, especially for small and medium-sca
 
 The problem addressed in this project is the lack of an accessible, simple, and low-cost system that can:
 
-Simulate or collect environmental data
+Recommend appropriate crops based on environmental conditions 
 
-Recommend appropriate crops based on conditions
-
-Provide early detection of potential crop diseases
-
+Recommend to irrigate when the soil moisture is low
 
 This project aims to serve as a beginner-friendly digital tool to assist farmers in making better decisions.
 
@@ -20,14 +17,9 @@ This project aims to serve as a beginner-friendly digital tool to assist farmers
 
 This project provides a basic Python-based Smart Agriculture Helper system that performs the following:
 
-Simulates sensor readings (soil moisture, temperature, humidity)
-
 Recommends suitable crops based on environmental thresholds
 
-Randomly detects common crop diseases (simulated)
-
 Displays meaningful results to the farmer
-
 
 Out of Scope / Future Scope:
 
@@ -61,14 +53,8 @@ Researchers exploring rule-based agriculture systems
 
 # 4. High-Level Features
 
-Sensor Simulation:
-Generates realistic environmental readings through Python's random module.
-
 Crop Recommendation System:
 Uses threshold-based logic to suggest the best crop—Rice, Wheat, or Maize.
-
-Disease Detection (Simulated):
-Randomly predicts crop health (Healthy, Blight, Rust, Powdery Mildew).
 
 Modular Design:
 Easily extendable and adaptable for real-world applications.
